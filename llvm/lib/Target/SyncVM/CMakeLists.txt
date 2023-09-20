@@ -40,6 +40,7 @@ add_llvm_target(SyncVMCodeGen
   SyncVMFrameLowering.cpp
   SyncVMISelDAGToDAG.cpp
   SyncVMISelLowering.cpp
+  SyncVMLoopIndexedLdStRecognize.cpp
   SyncVMLinkRuntime.cpp
   SyncVMLowerIntrinsics.cpp
   SyncVMAllocaHoisting.cpp
